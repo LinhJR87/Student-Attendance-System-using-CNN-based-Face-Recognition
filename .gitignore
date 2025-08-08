@@ -1,0 +1,47 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Model and plot files
+face_recognition_model.h5
+plot.png
+
+# Images and results
+images/
+
+# Dataset
+/dataset/
+
+# Log and result files
+recognized_faces.txt
+attendance.csv
+
+# Others
+*.log
+
